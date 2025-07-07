@@ -29,4 +29,4 @@ This privacy policy may be updated in the future. Please review this page for an
 ## Contact
 
 If you have any questions or suggestions, please contact us at:  
-**mataspauliusdregva@gmail.com**
+**blastlock25@gmail.com**
