@@ -4,15 +4,7 @@
 
 ## Data Collection
 
-The app does **not** collect personally identifiable information directly. However, it uses third-party services that may collect certain data to help improve the app and understand usage patterns.
-
-## Third-Party Services
-
-This app uses the following third-party services that may collect information:
-
-- **Google Firebase Analytics**  
-  Firebase Analytics may collect data such as device type, app usage statistics, and crash reports. This data is used to analyze and improve app performance and user experience. You can read more about Firebase’s data practices here:  
-  [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+The app does **not** collect personally identifiable information. It does not use third-party analytics or advertising services.
 
 ## Data Storage
 
@@ -20,7 +12,7 @@ Game progress and settings may be stored locally on your device, or synced to Ap
 
 ## Security
 
-We value your trust in using our app. No personal data is transmitted to our own servers beyond what is handled by Firebase as described above.
+We value your trust in using our app. No personal data is collected or transmitted to any external servers.
 
 ## Changes
 
